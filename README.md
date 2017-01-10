@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-                                                     TUG OF WAR
+<p align="center"> TUG OF WAR </p>
 ------------------------------------------------------------------------
 
 This was my first personal project I worked on after taking AP Computer Science. 
